@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey, I'm Aman 👋
 
-<!--
-**amanxmedia-458/amanxmedia-458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder • Student • Builder from India
 
-Here are some ideas to get you started:
+I'm currently building **RawBrandMedia**, a personal branding agency focused on helping medical professionals grow online through content and strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time, I'm learning:
+- AI systems
+- Mobile app development
+- Content strategy
+- Automation workflows
+- Branding and marketing
+
+---
+
+## About Me
+
+- 🎓 Computer Science student
+- 🚀 Building in public and documenting the journey
+- 🧠 Learning by shipping real projects
+- 📍 Based in India
+- ⚡ Interested in AI, startups, content, and tech
+
+---
+
+## Current Focus
+
+- Growing RawBrandMedia
+- Improving coding skills
+- Building mobile apps
+- Creating content systems
+- Becoming better at sales and communication
+
+---
+
+## Projects
+
+### RawBrandMedia
+Personal branding and content systems for doctors and clinics.
+
+### Anything App
+Experimenting with mobile app development and AI integrations.
+
+---
+
+## Goals
+
+- Build a strong digital business
+- Become financially independent
+- Create useful products
+- Build a meaningful personal brand
+- Make my parents proud
+
+---
+
+## Tech & Tools
+
+```txt
+HTML • CSS • JavaScript • React Native • Expo • Git • GitHub • AI Tools
